@@ -3,3 +3,5 @@
 Yêu cầu đồ án:
   - Tạo ra kiểu dữ liệu số nguyên và số thực có kích thước 128 bit.
   - Viết các phép tính +-/* trên kiểu dữ liệu số nguyên và các thao tác nhập, xuất, chuyển đổi qua lại giữa hệ thập phân và nhị phân.
+Cách cài đặt:
+ - download các file về và mở solution trong Visual Studio. Nếu muốn tự cài đặt, hãy tạo project mới trong IDE bạn dùng và add các file .h và .cpp vào đấy.
